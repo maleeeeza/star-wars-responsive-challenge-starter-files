@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  margin-bottom: 50px;
+  background-color: orange;
+  padding: 20px 0;
+}
+
+
+body {
+  font-family: sans-serif;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.playing-card {
+  margin-bottom: 30px;
+  border: 1px solid grey;
+}
+
+.playing-card-image {
+  width: 100%
+}
+
+.card-info h2 {
+  margin: 30px 10px 0 10px;
+}
+
+.card-info p {
+  margin: 0.5em 10px 30px 10px;
+}
+
+
